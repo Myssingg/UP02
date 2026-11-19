@@ -61,4 +61,7 @@ cc758b4f-6745-4d53-be6b-3fb6fbee8a24
 {13,1,6},
 {4,"_$Data$_.Post",21},
 {4,"_$InfoBase$_.DumpStart",22},
-{4,"_$InfoBase$_.DumpFinish",23}
+{4,"_$InfoBase$_.DumpFinish",23},
+{1,2e405821-7b61-4136-9c10-59dd99509dbf,"Никифорова Анна Семеновна",7},
+{13,1,7},
+{4,"_$InfoBase$_.DBConfigUpdateError",24}
