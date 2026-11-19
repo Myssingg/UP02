@@ -1,60 +1,10 @@
---
--- PostgreSQL database dump
---
-
-\restrict mnZKTr9fTd0Cf0ec2zQPSJzORO5yu4UKhSyI8YaHHCbIEg1GEO0YHIwEHc8iXzW
-
--- Dumped from database version 18.6
--- Dumped by pg_dump version 18.6
-
--- Started on 2026-11-18 17:38:34
-
-SET statement_timeout = 0;
-SET lock_timeout = 0;
-SET idle_in_transaction_session_timeout = 0;
-SET transaction_timeout = 0;
-SET client_encoding = 'UTF8';
-SET standard_conforming_strings = on;
-SELECT pg_catalog.set_config('search_path', '', false);
-SET check_function_bodies = false;
-SET xmloption = content;
-SET client_min_messages = warning;
-SET row_security = off;
-
---
--- TOC entry 5130 (class 1262 OID 16703)
--- Name: UP02; Type: DATABASE; Schema: -; Owner: postgres
---
 
 CREATE DATABASE "UP02" WITH TEMPLATE = template0 ENCODING = 'UTF8' LOCALE_PROVIDER = libc LOCALE = 'Russian_Russia.1251';
 
 
 ALTER DATABASE "UP02" OWNER TO postgres;
 
-\unrestrict mnZKTr9fTd0Cf0ec2zQPSJzORO5yu4UKhSyI8YaHHCbIEg1GEO0YHIwEHc8iXzW
 \connect "UP02"
-\restrict mnZKTr9fTd0Cf0ec2zQPSJzORO5yu4UKhSyI8YaHHCbIEg1GEO0YHIwEHc8iXzW
-
-SET statement_timeout = 0;
-SET lock_timeout = 0;
-SET idle_in_transaction_session_timeout = 0;
-SET transaction_timeout = 0;
-SET client_encoding = 'UTF8';
-SET standard_conforming_strings = on;
-SELECT pg_catalog.set_config('search_path', '', false);
-SET check_function_bodies = false;
-SET xmloption = content;
-SET client_min_messages = warning;
-SET row_security = off;
-
-SET default_tablespace = '';
-
-SET default_table_access_method = heap;
-
---
--- TOC entry 222 (class 1259 OID 16715)
--- Name: Cities; Type: TABLE; Schema: public; Owner: postgres
---
 
 CREATE TABLE public."Cities" (
     id integer NOT NULL,
@@ -1023,13 +973,4 @@ ALTER TABLE ONLY public."Products"
 
 ALTER TABLE ONLY public."Users"
     ADD CONSTRAINT "Users_roleId_fkey" FOREIGN KEY ("roleId") REFERENCES public."Roles"(id) NOT VALID;
-
-
--- Completed on 2026-11-18 17:38:35
-
---
--- PostgreSQL database dump complete
---
-
-\unrestrict mnZKTr9fTd0Cf0ec2zQPSJzORO5yu4UKhSyI8YaHHCbIEg1GEO0YHIwEHc8iXzW
 
