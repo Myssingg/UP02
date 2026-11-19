@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\productinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\productinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\productlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\productlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\productlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\productlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\orderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\orderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\orderinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\orderinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\orderinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\orderinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\productinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\productinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|c:\\users\\\u043A\u043B\u0443\u0434\u0438\\documents\\up02\\up02project\\up02project\\windows\\orderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CD6085-832F-DEF6-6803-20D5B7935833}|UP02Project\\UP02Project.csproj|solutionrelative:up02project\\windows\\orderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductInfo.xaml.cs",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\ProductInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductInfo.xaml.cs",
+              "RelativeToolTip": "UP02Project\\Windows\\ProductInfo.xaml.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:03:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductList.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductList.xaml",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\ProductList.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductList.xaml",
+              "RelativeToolTip": "UP02Project\\Windows\\ProductList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T18:54:21.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductList.xaml.cs",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\ProductList.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductList.xaml.cs",
+              "RelativeToolTip": "UP02Project\\Windows\\ProductList.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:51:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderInfo.xaml",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\OrderInfo.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderInfo.xaml",
+              "RelativeToolTip": "UP02Project\\Windows\\OrderInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T18:57:44.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderInfo.xaml.cs",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\OrderInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderInfo.xaml.cs",
+              "RelativeToolTip": "UP02Project\\Windows\\OrderInfo.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:57:19.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderList.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderList.xaml",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\OrderList.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderList.xaml",
+              "RelativeToolTip": "UP02Project\\Windows\\OrderList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T18:53:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductInfo.xaml",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\ProductInfo.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\ProductInfo.xaml",
+              "RelativeToolTip": "UP02Project\\Windows\\ProductInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T19:04:01.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderList.xaml.cs",
+              "RelativeDocumentMoniker": "UP02Project\\Windows\\OrderList.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043B\u0443\u0434\u0438\\Documents\\UP02\\UP02Project\\UP02Project\\Windows\\OrderList.xaml.cs",
+              "RelativeToolTip": "UP02Project\\Windows\\OrderList.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T18:51:44.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
